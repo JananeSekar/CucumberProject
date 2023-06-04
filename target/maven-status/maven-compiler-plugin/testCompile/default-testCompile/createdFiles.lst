@@ -1,0 +1,5 @@
+stepDefs\NewCalculatorStepDef.class
+stepDefs\TestRunner.class
+stepDefs\CalculatorStepDef.class
+stepDefs\Hooks.class
+stepDefs\LoginStepDefs.class
